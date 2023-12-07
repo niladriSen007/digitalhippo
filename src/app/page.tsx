@@ -29,9 +29,9 @@ export default function Home() {
     <div className="min-h-screen bg-gradient-to-b from-slate-950 to-blue-800">
       <MaxWidthWrapper>
         <div className="mx-auto pt-36 pb-20 md:pb-24 text-center flex flex-col items-center max-w-3xl">
-          <h1 className="text-4xl md:text-6xl font-bold tracking-tight text-blue-200 ">
+          <h1 className="text-4xl md:text-6xl font-bold tracking-tight text-blue-100 ">
             Your marketplace for high-fabric{" "}
-            <span className="text-blue-500 underline italic">Wardrobe collection</span>
+            <span className="text-blue-500 underline italic">Digital Assets</span>
             <span>.</span>
           </h1>
           <p className="mt-8 md:mt-6 text-base md:text-lg max-w-prose text-muted-foreground leading-tight md:leading-relaxed ">
